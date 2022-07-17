@@ -1,4 +1,4 @@
-## Spring boot Application over SSL
+## Spring Boot Application over SSL
 
 The application was created to show how easy is enabling SSL in your spring boot applications.
 
